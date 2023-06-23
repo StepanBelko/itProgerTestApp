@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">itProgerTestApp</string>
+    <string name="logo_text">Calculator</string>
+    <string name="hint_1">Enter first num</string>
+    <string name="hint_2">Enter second num</string>
+    <string name="add_nums_btn">Add numbers</string>
+    <string name="go_to_next_intent_btn">Next Activity</string>
+    <string name="logo2_text">Just text</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
